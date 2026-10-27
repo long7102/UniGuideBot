@@ -90,7 +90,7 @@ def recommend(payload):
     use_web=payload.get('use_web',True)
     if not isinstance(use_web,bool): return {'error':'Lựa chọn tra cứu không hợp lệ.'},400
     schools,careers,reasons=match_profile(profile)
-    question='Tư vấn cá nhân dựa trên hồ sơ. Nêu 2-3 hướng nghề phù hợp, lý do, điểm cần bổ sung, và trường trong catalogue để tìm hiểu. Viết một LỘ TRÌNH 90 NGÀY gồm 3 giai đoạn: ngày 1-30, 31-60, 61-90; mỗi giai đoạn có mục tiêu, hành động cụ thể, sản phẩm kiểm chứng. Nếu sở thích còn mơ hồ, hỏi làm rõ thay vì đoán trường. Không coi sở thích/hành vi có hại là thế mạnh nghề nghiệp.'
+    question='Tư vấn cá nhân dựa trên hồ sơ. Nêu 2-3 hướng nghề phù hợp, lý do, điểm cần bổ sung, và trường trong catalogue để tìm hiểu. Viết một LỘ TRÌNH 90 NGÀY gồm 3 giai đoạn: ngày 1-30, 31-60, 61-90; mỗi giai đoạn có mục tiêu, hành động cụ thể, sản phẩm kiểm chứng. Nếu sở thích còn mơ hồ, hỏi làm rõ thay vì đoán trường. Không coi sở thích/hành vi có hại là thế mạnh nghề nghiệp. Lộ trình 90 ngày là kế hoạch khám phá và rèn kỹ năng ban đầu, không cam kết trở thành kỹ sư hay đạt chuẩn nghề nghiệp sau 90 ngày. Chia phần message thành đoạn ngắn có xuống dòng; mỗi giai đoạn có các dòng Mục tiêu, Hành động, Sản phẩm kiểm chứng riêng.'
     context={'profile':profile,'structured_recommendation':True,'admission_evidence':evidence([s['short_name'] for s in schools])}
     sources=[];warning=None;grounded=False;checked_at=None
     if use_web:

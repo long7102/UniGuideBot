@@ -2,6 +2,8 @@
 
 Ứng dụng Python/SQLite, giao diện sáng/tối, ưu tiên Bắc Bộ. Bốn không gian: Tư vấn AI, Hồ sơ của tôi, Xu hướng nghề, Danh mục trường.
 
+Website công khai: https://uniguidebot.vercel.app
+
 ## Chạy trong VS Code
 
 ```powershell
@@ -85,3 +87,5 @@ Giới hạn body 96 KB; câu hỏi 1–2.000 ký tự; từng mục hồ sơ c�
 Trên Vercel, danh mục SQLite được khởi tạo từ JSON công khai trong `/tmp`. Tin RSS được kiểm tra đồng bộ khi có yêu cầu và bản lưu quá 2 giờ; không chạy thread nền thường trực. Cache `/tmp` có thể mất khi đổi instance, chưa phải kho dữ liệu dùng chung bền vững. Chat và hồ sơ vẫn ở trình duyệt, tách theo tên miền. Giới hạn gọi AI theo IP trong từng tiến trình (8/phút), không phải giới hạn chung nhiều instance.
 
 Câu hỏi về địa điểm, số cơ sở, chương trình đào tạo và nội dung nghề nghiệp thuộc phạm vi giáo dục. Dữ kiện cơ sở HPN được đối chiếu từ thông báo tuyển sinh 21/5/2026; phân biệt ba địa điểm với hai mã tuyển sinh.
+
+Kiểm tra production 27/10/2026: trang và tài nguyên tĩnh trả 200 không cần đăng nhập; Gemini trả lời câu hỏi về ba cơ sở HPN có nguồn; tư vấn hồ sơ trả lý do riêng cho trường; RSS có 23 tin/23 ảnh; PDF có hồ sơ và lộ trình 90 ngày. Google Search vẫn chưa khả dụng, AI tư vấn thông thường vẫn hoạt động.
