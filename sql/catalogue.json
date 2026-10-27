@@ -1,0 +1,2974 @@
+[
+  {
+    "name": "Đại học Bách khoa Hà Nội",
+    "short_name": "HUST",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hust.edu.vn/",
+    "description": "Định hướng tìm hiểu nhóm lĩnh vực kỹ thuật và công nghệ. Đối chiếu chương trình và điều kiện tuyển sinh tại nguồn chính thức.",
+    "fields": [
+      "cntt",
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "BKA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Bach-khoa-Ha-Noi_C50_D638.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "dai hoc bach khoa ha noi"
+    ]
+  },
+  {
+    "name": "Đại học Kinh tế Quốc dân",
+    "short_name": "NEU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://neu.edu.vn/",
+    "description": "Định hướng tìm hiểu nhóm lĩnh vực kinh tế và kinh doanh; cần xem chương trình cụ thể của năm đăng ký.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "KHA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Kinh-te-Quoc-dan_C50_D630.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "dai hoc kinh te quoc dan"
+    ]
+  },
+  {
+    "name": "Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội",
+    "short_name": "ULIS",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://ulis.vnu.edu.vn/",
+    "description": "Định hướng tìm hiểu ngoại ngữ và đào tạo giáo viên ngôn ngữ. Kiểm tra từng chương trình tại website trường.",
+    "fields": [
+      "ngoai_ngu",
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHF",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Ngoai-ngu-DHQG-Ha-Noi_C50_D667.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc ngoai ngu - dhqg ha noi",
+      "dai hoc ngoai ngu - dhqg ha noi",
+      "truong dai hoc ngoai ngu – dai hoc quoc gia ha noi",
+      "dai hoc ngoai ngu – dai hoc quoc gia ha noi"
+    ]
+  },
+  {
+    "name": "Trường Đại học Y Hà Nội",
+    "short_name": "HMU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hmu.edu.vn/",
+    "description": "Định hướng tìm hiểu lĩnh vực sức khỏe. Điều kiện xét tuyển và yêu cầu đào tạo cần đối chiếu riêng.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "YHB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Y-Ha-Noi_C50_D609.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc y ha noi",
+      "dai hoc y ha noi"
+    ]
+  },
+  {
+    "name": "Trường Đại học Luật Hà Nội",
+    "short_name": "HLU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hlu.edu.vn/",
+    "description": "Định hướng tìm hiểu lĩnh vực luật. Xem ngành, phương thức và điều kiện tuyển sinh trên nguồn chính thức.",
+    "fields": [
+      "luat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "LPH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Luat-Ha-Noi_C50_D626.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc luat ha noi",
+      "dai hoc luat ha noi"
+    ]
+  },
+  {
+    "name": "Trường Đại học Bách khoa – Đại học Đà Nẵng",
+    "short_name": "DUT",
+    "city": "Đà Nẵng",
+    "region": "trung",
+    "website": "https://dut.udn.vn/",
+    "description": "Định hướng tìm hiểu kỹ thuật và công nghệ tại miền Trung. Xem chương trình đào tạo và thông báo tuyển sinh cụ thể.",
+    "fields": [
+      "cntt",
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Trường đại học",
+    "source_url": "https://dut.udn.vn/",
+    "admission_code": "",
+    "aliases": [
+      "truong dai hoc bach khoa – dai hoc da nang",
+      "dai hoc bach khoa – dai hoc da nang"
+    ]
+  },
+  {
+    "name": "Đại học Huế",
+    "short_name": "HUE",
+    "city": "Huế",
+    "region": "trung",
+    "website": "https://hueuni.edu.vn/",
+    "description": "Đại học có nhiều đơn vị thành viên. Cần chọn đúng trường thành viên và chương trình khi kiểm tra thông tin.",
+    "fields": [
+      "kinh_te",
+      "su_pham",
+      "y_duoc",
+      "ngoai_ngu"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Trường đại học",
+    "source_url": "https://hueuni.edu.vn/",
+    "admission_code": "",
+    "aliases": [
+      "dai hoc hue"
+    ]
+  },
+  {
+    "name": "Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM",
+    "short_name": "UIT",
+    "city": "TP. Hồ Chí Minh",
+    "region": "nam",
+    "website": "https://tuyensinh.uit.edu.vn/",
+    "description": "Định hướng tìm hiểu công nghệ thông tin và máy tính. Đối chiếu thông báo trên cổng tuyển sinh của trường.",
+    "fields": [
+      "cntt"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Trường đại học",
+    "source_url": "https://tuyensinh.uit.edu.vn/",
+    "admission_code": "",
+    "aliases": [
+      "truong dai hoc cong nghe thong tin – dhqg tp.hcm",
+      "dai hoc cong nghe thong tin – dhqg tp.hcm"
+    ]
+  },
+  {
+    "name": "Đại học Kinh tế TP. Hồ Chí Minh",
+    "short_name": "UEH",
+    "city": "TP. Hồ Chí Minh",
+    "region": "nam",
+    "website": "https://ueh.edu.vn/",
+    "description": "Định hướng tìm hiểu kinh tế và kinh doanh. Đối chiếu ngành, cơ sở học và chương trình cụ thể.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Trường đại học",
+    "source_url": "https://ueh.edu.vn/",
+    "admission_code": "",
+    "aliases": [
+      "dai hoc kinh te tp. ho chi minh"
+    ]
+  },
+  {
+    "name": "Trường Đại học Sư phạm TP. Hồ Chí Minh",
+    "short_name": "HCMUE",
+    "city": "TP. Hồ Chí Minh",
+    "region": "nam",
+    "website": "https://hcmue.edu.vn/",
+    "description": "Định hướng tìm hiểu sư phạm và ngoại ngữ. Các điều kiện riêng của ngành cần được kiểm tra theo đề án.",
+    "fields": [
+      "su_pham",
+      "ngoai_ngu"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Trường đại học",
+    "source_url": "https://hcmue.edu.vn/",
+    "admission_code": "",
+    "aliases": [
+      "truong dai hoc su pham tp. ho chi minh",
+      "dai hoc su pham tp. ho chi minh"
+    ]
+  },
+  {
+    "name": "Trường Đại học Bách khoa – ĐHQG TP.HCM",
+    "short_name": "HCMUT",
+    "city": "TP. Hồ Chí Minh",
+    "region": "nam",
+    "website": "https://hcmut.edu.vn/",
+    "description": "Định hướng tìm hiểu kỹ thuật và công nghệ. Kiểm tra chương trình và phương thức tuyển sinh của năm đăng ký.",
+    "fields": [
+      "cntt",
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Trường đại học",
+    "source_url": "https://hcmut.edu.vn/",
+    "admission_code": "",
+    "aliases": [
+      "truong dai hoc bach khoa – dhqg tp.hcm",
+      "dai hoc bach khoa – dhqg tp.hcm"
+    ]
+  },
+  {
+    "name": "Đại học Cần Thơ",
+    "short_name": "CTU",
+    "city": "Cần Thơ",
+    "region": "nam",
+    "website": "https://ctu.edu.vn/",
+    "description": "Định hướng tìm hiểu đại học đa ngành tại Đồng bằng sông Cửu Long. Danh mục này chỉ đánh dấu một số nhóm lĩnh vực.",
+    "fields": [
+      "cntt",
+      "kinh_te",
+      "ky_thuat",
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Trường đại học",
+    "source_url": "https://ctu.edu.vn/",
+    "admission_code": "",
+    "aliases": [
+      "dai hoc can tho"
+    ]
+  },
+  {
+    "name": "Trường Đại học Công nghệ – Đại học Quốc gia Hà Nội",
+    "short_name": "UET",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://tuyensinh.uet.vnu.edu.vn/",
+    "fields": [
+      "cntt",
+      "ky_thuat"
+    ],
+    "aliases": [
+      "dai hoc cong nghe ha noi",
+      "dai hoc cong nghe dai hoc quoc gia ha noi",
+      "truong dai hoc cong nghe - dhqg ha noi",
+      "dai hoc cong nghe - dhqg ha noi",
+      "truong dai hoc cong nghe – dai hoc quoc gia ha noi",
+      "dai hoc cong nghe – dai hoc quoc gia ha noi"
+    ],
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghe-DHQG-Ha-Noi_C50_D671.htm",
+    "verified_at": "2026-10-27",
+    "description": "Danh mục định hướng nhóm lĩnh vực; kiểm tra đúng cơ sở, chương trình và thông báo tuyển sinh từng năm tại nguồn chính thức.",
+    "ownership": "cong_lap",
+    "admission_code": "QHI",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT"
+  },
+  {
+    "name": "Học viện Công nghệ Bưu chính Viễn thông – Cơ sở phía Bắc",
+    "short_name": "PTIT",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://tuyensinh.ptit.edu.vn/",
+    "fields": [
+      "cntt",
+      "ky_thuat",
+      "kinh_te"
+    ],
+    "aliases": [
+      "hoc vien cong nghe buu chinh vien thong",
+      "buu chinh vien thong",
+      "hoc vien cong nghe buu chinh vien thong – co so phia bac"
+    ],
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Cong-nghe-Buu-chinh-Vien-thong_C50_D662.htm",
+    "verified_at": "2026-10-27",
+    "description": "Danh mục định hướng nhóm lĩnh vực; kiểm tra đúng cơ sở, chương trình và thông báo tuyển sinh từng năm tại nguồn chính thức.",
+    "ownership": "cong_lap",
+    "admission_code": "BVH",
+    "institution_type": "Học viện",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT"
+  },
+  {
+    "name": "Trường Đại học Ngoại thương – Trụ sở chính Hà Nội",
+    "short_name": "FTU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://thongtintuyensinh.ftu.edu.vn/",
+    "fields": [
+      "kinh_te",
+      "ngoai_ngu"
+    ],
+    "aliases": [
+      "dai hoc ngoai thuong",
+      "ngoai thuong ha noi",
+      "truong dai hoc ngoai thuong",
+      "truong dai hoc ngoai thuong – tru so chinh ha noi",
+      "dai hoc ngoai thuong – tru so chinh ha noi"
+    ],
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Ngoai-thuong_C50_D621.htm",
+    "verified_at": "2026-10-27",
+    "description": "Danh mục định hướng nhóm lĩnh vực; kiểm tra đúng cơ sở, chương trình và thông báo tuyển sinh từng năm tại nguồn chính thức.",
+    "ownership": "cong_lap",
+    "admission_code": "NTH",
+    "institution_type": "Trường đại học",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT"
+  },
+  {
+    "name": "Trường Đại học Sư phạm Hà Nội",
+    "short_name": "HNUE",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://tuyensinh.hnue.edu.vn/",
+    "fields": [
+      "su_pham",
+      "ngoai_ngu"
+    ],
+    "aliases": [
+      "dai hoc su pham ha noi",
+      "su pham ha noi",
+      "truong dai hoc su pham ha noi"
+    ],
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Su-pham-Ha-Noi_C50_D617.htm",
+    "verified_at": "2026-10-27",
+    "description": "Danh mục định hướng nhóm lĩnh vực; kiểm tra đúng cơ sở, chương trình và thông báo tuyển sinh từng năm tại nguồn chính thức.",
+    "ownership": "cong_lap",
+    "admission_code": "SPH",
+    "institution_type": "Trường đại học",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT"
+  },
+  {
+    "name": "Đại học Công nghiệp Hà Nội",
+    "short_name": "HAUI",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://tuyensinh.haui.edu.vn/",
+    "fields": [
+      "cntt",
+      "ky_thuat",
+      "kinh_te",
+      "ngoai_ngu"
+    ],
+    "aliases": [
+      "cong nghiep ha noi",
+      "dai hoc cong nghiep ha noi"
+    ],
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghiep-Ha-Noi_C50_D636.htm",
+    "verified_at": "2026-10-27",
+    "description": "Danh mục định hướng nhóm lĩnh vực; kiểm tra đúng cơ sở, chương trình và thông báo tuyển sinh từng năm tại nguồn chính thức.",
+    "ownership": "cong_lap",
+    "admission_code": "DCN",
+    "institution_type": "Trường đại học",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT"
+  },
+  {
+    "name": "Trường Đại học Khoa học – Đại học Thái Nguyên",
+    "short_name": "TNUS",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tuyensinh.tnus.edu.vn/",
+    "fields": [
+      "cntt",
+      "luat"
+    ],
+    "aliases": [
+      "dai hoc khoa hoc thai nguyen",
+      "dai hoc khoa hoc dai hoc thai nguyen",
+      "truong dai hoc khoa hoc, dai hoc thai nguyen",
+      "dai hoc khoa hoc, dai hoc thai nguyen",
+      "truong dai hoc khoa hoc – dai hoc thai nguyen",
+      "dai hoc khoa hoc – dai hoc thai nguyen"
+    ],
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Khoa-hoc-DH-Thai-Nguyen_C52_D717.htm",
+    "verified_at": "2026-10-27",
+    "description": "Danh mục định hướng nhóm lĩnh vực; kiểm tra đúng cơ sở, chương trình và thông báo tuyển sinh từng năm tại nguồn chính thức.",
+    "ownership": "cong_lap",
+    "admission_code": "DTZ",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT"
+  },
+  {
+    "name": "ĐẠI HỌC QUỐC GIA HÀ NỘI",
+    "short_name": "QH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "QH",
+    "institution_type": "Đại học hệ thống",
+    "source_url": "https://thongtintuyensinh.vn/DAI-HOC-QUOC-GIA-HA-NOI_C50_D3562.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "dai hoc quoc gia ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Giáo dục - ĐHQG Hà Nội",
+    "short_name": "QHS",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://education.vnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHS",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Giao-duc-DHQG-Ha-Noi_C50_D665.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc giao duc - dhqg ha noi",
+      "dai hoc giao duc - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Khoa học Tự nhiên - ĐHQG Hà Nội",
+    "short_name": "QHT",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://www.hus.vnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "khoa_hoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHT",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-DH-Khoa-hoc-Tu-nhien-DHQG-Ha-Noi_C50_D670.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc khoa hoc tu nhien - dhqg ha noi",
+      "dai hoc khoa hoc tu nhien - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Khoa học Xã hội và Nhân văn - ĐHQG Hà Nội",
+    "short_name": "QHX",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHX",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-DH-Khoa-hoc-Xa-hoi-va-Nhan-van-DHQG-Ha-Noi_C50_D669.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc khoa hoc xa hoi va nhan van - dhqg ha noi",
+      "dai hoc khoa hoc xa hoi va nhan van - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kinh tế - ĐHQG Hà Nội",
+    "short_name": "QHE",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://ueb.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHE",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://www.thongtintuyensinh.vn/Truong-Dai-hoc-Kinh-te-DHQG-Ha-Noi_C50_D668.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc kinh te - dhqg ha noi",
+      "dai hoc kinh te - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Luật - ĐHQG Hà Nội",
+    "short_name": "QHL",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://law.vnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "luat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHL",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Khoa-Luat-DHQG-Ha-Noi_C50_D666.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc luat - dhqg ha noi",
+      "dai hoc luat - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Việt Nhật - ĐHQG Hà Nội",
+    "short_name": "VJU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://www.vju.ac.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "VJU",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://www.thongtintuyensinh.vn/Truong-Dai-hoc-Viet-Nhat-DHQG-Ha-Noi_C50_D16611.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc viet nhat - dhqg ha noi",
+      "dai hoc viet nhat - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Y Dược - ĐHQG Hà Nội",
+    "short_name": "QHY",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://ump.vnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHY",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Khoa-Y-Duoc-DHQG-Ha-Noi_C50_D6502.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc y duoc - dhqg ha noi",
+      "dai hoc y duoc - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Khoa học Liên ngành và Nghệ thuật - ĐHQG Hà Nội",
+    "short_name": "QHK",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nghe_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHK",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Khoa-hoc-lien-nganh-va-Nghe-thuat_C50_D23998.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong khoa hoc lien nganh va nghe thuat - dhqg ha noi",
+      "khoa hoc lien nganh va nghe thuat - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Quản trị và Kinh doanh - ĐHQG Hà Nội",
+    "short_name": "QHD",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hsb.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "QHD",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://www.thongtintuyensinh.vn/Truong-Quan-tri-va-Kinh-doanh-Dai-hoc-Quoc-gia-Ha-Noi_C50_D19444.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong quan tri va kinh doanh - dhqg ha noi",
+      "quan tri va kinh doanh - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Quốc tế - ĐHQG Hà Nội",
+    "short_name": "QHQ",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://is.vnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "QHQ",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Khoa-Quoc-te-DHQG-Ha-Noi_C50_D664.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong quoc te - dhqg ha noi",
+      "quoc te - dhqg ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "ĐẠI HỌC PHENIKAA",
+    "short_name": "PKA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://phenikaa-uni.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "cntt",
+      "ky_thuat",
+      "kinh_te",
+      "luat",
+      "y_duoc"
+    ],
+    "ownership": "tu_thuc",
+    "admission_code": "PKA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Phenikaa_C50_D681.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "dai hoc phenikaa"
+    ],
+    "field_note": "Nhóm lĩnh vực tham khảo từ nguồn trường.",
+    "field_source": "https://phenikaa-uni.edu.vn/vi/page/dao-tao"
+  },
+  {
+    "name": "Học viện Âm nhạc Quốc gia Việt Nam",
+    "short_name": "NVH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://vnam.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nghe_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "NVH",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Am-nhac-Quoc-gia-Viet-Nam_C50_D655.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien am nhac quoc gia viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Báo chí Tuyên truyền",
+    "short_name": "HBT",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://ajc.hcma.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HBT",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Bao-chi-va-Tuyen-truyen_C50_D663.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien bao chi tuyen truyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Chính sách và Phát triển",
+    "short_name": "HCP",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://apd.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "HCP",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Chinh-sach-va-Phat-trien_C50_D3547.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien chinh sach va phat trien"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Dân tộc",
+    "short_name": "HVD",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hvdt.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HVD",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Dan-toc_C50_D18276.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien dan toc"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Hành chính và Quản trị công",
+    "short_name": "HCH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://apag.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HCH",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Hanh-chinh-Quoc-gia_C50_D661.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien hanh chinh va quan tri cong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Kỹ thuật Mật mã",
+    "short_name": "KMA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://actvn.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "KMA",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Ky-thuat-Mat-ma_C50_D660.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien ky thuat mat ma"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Múa Việt Nam",
+    "short_name": "HVM",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://www.vnad.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nghe_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HVM",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Mua-Viet-Nam_C50_D18712.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien mua viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Ngân hàng",
+    "short_name": "NHH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hvnh.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "NHH",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Ngan-hang_C50_D659.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien ngan hang"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Ngoại giao",
+    "short_name": "HQT",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://www.dav.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HQT",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Ngoai-giao_C50_D657.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien ngoai giao"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Nông nghiệp Việt Nam",
+    "short_name": "HVN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://www.vnua.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nong_lam"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HVN",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Nong-nghiep-Viet-Nam_C50_D620.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien nong nghiep viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Phụ nữ Việt Nam",
+    "short_name": "HPN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hvpnvn.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HPN",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Phu-nu-Viet-Nam_C50_D9923.htm#.Uymn6s6_QdU",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien phu nu viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Quản lý Giáo dục",
+    "short_name": "HVQ",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://naem.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HVQ",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Quan-ly-Giao-duc_C50_D658.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien quan ly giao duc"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Tài chính",
+    "short_name": "HTC",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hvtc.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HTC",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Tai-chinh_C50_D656.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien tai chinh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Thanh Thiếu niên Việt Nam",
+    "short_name": "HTN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://vya.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HTN",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Thanh-thieu-nien-Viet-Nam_C50_D6562.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien thanh thieu nien viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Tòa án",
+    "short_name": "HTA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hvta.toaan.gov.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "luat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HTA",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Toa-an_C50_D14390.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien toa an"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Học viện Y Dược học cổ truyền Việt Nam",
+    "short_name": "HYD",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://vutm.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HYD",
+    "institution_type": "Học viện",
+    "source_url": "https://thongtintuyensinh.vn/Hoc-vien-Y-Duoc-hoc-Co-truyen-Viet-Nam_C50_D716.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien y duoc hoc co truyen viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học CMC",
+    "short_name": "CMC",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://cmcu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "cntt",
+      "ky_thuat",
+      "kinh_te",
+      "ngoai_ngu",
+      "nghe_thuat",
+      "xa_hoi"
+    ],
+    "ownership": "tu_thuc",
+    "admission_code": "CMC",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-A-Chau_C50_D18237.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cmc",
+      "dai hoc cmc"
+    ],
+    "field_note": "Nhóm lĩnh vực tham khảo từ nguồn trường.",
+    "field_source": "https://cmcu.edu.vn/chuong-trinh-dao-tao/"
+  },
+  {
+    "name": "Trường Đại học Công đoàn",
+    "short_name": "LDA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://dhcd.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "LDA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-doan_C50_D637.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong doan",
+      "dai hoc cong doan"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghệ Giao thông vận tải",
+    "short_name": "GTP",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://utt.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "GTP",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghe-Giao-thong-van-tai_C50_D6522.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghe giao thong van tai",
+      "dai hoc cong nghe giao thong van tai"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghệ và Quản lý Hữu nghị",
+    "short_name": "DCQ",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://utm.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DCQ",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghe-va-Quan-ly-Huu-nghi_C50_D2460.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghe va quan ly huu nghi",
+      "dai hoc cong nghe va quan ly huu nghi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghiệp và Thương mại Hà Nội",
+    "short_name": "CCM",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hict.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "CCM",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghiep-Det-may-Ha-Noi_C50_D790.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghiep va thuong mai ha noi",
+      "dai hoc cong nghiep va thuong mai ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghiệp Việt Hung",
+    "short_name": "VHD",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://viu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "VHD",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghiep-Viet-Hung_C50_D5133.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghiep viet hung",
+      "dai hoc cong nghiep viet hung"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Dược Hà Nội",
+    "short_name": "DKH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hup.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DKH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Duoc-Ha-Noi_C50_D635.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc duoc ha noi",
+      "dai hoc duoc ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Đại Nam",
+    "short_name": "DDN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://dainam.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DDN",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Dai-Nam_C50_D603.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc dai nam",
+      "dai hoc dai nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Điện lực",
+    "short_name": "DDL",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://epu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DDL",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Dien-luc_C50_D634.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc dien luc",
+      "dai hoc dien luc"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Đông Đô",
+    "short_name": "DDU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "http://ddu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DDU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Dong-Do_C50_D606.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc dong do",
+      "dai hoc dong do"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học FPT",
+    "short_name": "FPT",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://daihoc.fpt.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "cntt",
+      "kinh_te",
+      "ngoai_ngu",
+      "nghe_thuat"
+    ],
+    "ownership": "tu_thuc",
+    "admission_code": "FPT",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-FPT_C50_D602.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc fpt",
+      "dai hoc fpt"
+    ],
+    "field_note": "Nhóm lĩnh vực tham khảo từ nguồn trường.",
+    "field_source": "https://daihoc.fpt.edu.vn/tuyen-sinh/"
+  },
+  {
+    "name": "Trường Đại học Giao thông vận tải",
+    "short_name": "GHA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://www.utc.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "GHA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Giao-thong-van-tai_C50_D633.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc giao thong van tai",
+      "dai hoc giao thong van tai"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hà Nội",
+    "short_name": "NHF",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hanu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "NHF",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Ha-Noi_C50_D632.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc ha noi",
+      "dai hoc ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hòa Bình",
+    "short_name": "ETU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://daihochoabinh.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "ETU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Hoa-Binh_C50_D2459.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc hoa binh",
+      "dai hoc hoa binh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Khoa học và Công nghệ Hà Nội",
+    "short_name": "KCN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://usth.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "KCN",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Khoa-hoc-va-Cong-nghe-Ha-Noi_C50_D5159.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc khoa hoc va cong nghe ha noi",
+      "dai hoc khoa hoc va cong nghe ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kinh doanh và Công nghệ Hà Nội",
+    "short_name": "DQK",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hubt.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "tu_thuc",
+    "admission_code": "DQK",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Kinh-doanh-va-Cong-nghe-Ha-Noi_C50_D5165.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc kinh doanh va cong nghe ha noi",
+      "dai hoc kinh doanh va cong nghe ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kinh tế Kỹ thuật Công nghiệp",
+    "short_name": "DKK",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://uneti.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat",
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DKK",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Kinh-te-Ky-thuat-Cong-nghiep_C50_D631.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc kinh te ky thuat cong nghiep",
+      "dai hoc kinh te ky thuat cong nghiep"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kiểm sát Hà Nội",
+    "short_name": "DKS",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hpu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "luat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DKS",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Kiem-sat-Ha-Noi_C50_D9919.htm#.UyfPoqiSxCg",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc kiem sat ha noi",
+      "dai hoc kiem sat ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kiến trúc Hà Nội",
+    "short_name": "KTA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hau.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "KTA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Kien-truc-Ha-Noi_C50_D628.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc kien truc ha noi",
+      "dai hoc kien truc ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Lao động Xã hội",
+    "short_name": "DLX",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://ulsa.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "xa_hoi"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DLX",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Lao-dong-Xa-hoi_C50_D627.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc lao dong xa hoi",
+      "dai hoc lao dong xa hoi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Lâm nghiệp",
+    "short_name": "LNH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://vnuf.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nong_lam"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "LNH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Lam-nghiep_C50_D703.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc lam nghiep",
+      "dai hoc lam nghiep"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Mỏ Địa chất Hà Nội",
+    "short_name": "MDA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://humg.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "MDA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Mo-Dia-chat-Ha-Noi_C50_D625.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc mo dia chat ha noi",
+      "dai hoc mo dia chat ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Mở Hà Nội",
+    "short_name": "MHN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hou.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "MHN",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Mo-Ha-Noi_C50_D607.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc mo ha noi",
+      "dai hoc mo ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Mỹ thuật Công nghiệp",
+    "short_name": "MTC",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://mtud.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat",
+      "nghe_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "MTC",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-My-thuat-Cong-nghiep_C50_D624.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc my thuat cong nghiep",
+      "dai hoc my thuat cong nghiep"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Mỹ thuật Việt Nam",
+    "short_name": "MTH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://mythuatvietnam.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nghe_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "MTH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-My-thuat-Viet-Nam_C50_D622.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc my thuat viet nam",
+      "dai hoc my thuat viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Nguyễn Trãi",
+    "short_name": "NTU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://daihocnguyentrai.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "NTU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Nguyen-Trai_C50_D568.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc nguyen trai",
+      "dai hoc nguyen trai"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Phương Đông",
+    "short_name": "DPD",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://phuongdong.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DPD",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-DL-Phuong-Dong_C50_D605.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc phuong dong",
+      "dai hoc phuong dong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sân khấu Điện ảnh",
+    "short_name": "SKD",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://skda.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nghe_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "SKD",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-San-khau-Dien-anh_C50_D618.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc san khau dien anh",
+      "dai hoc san khau dien anh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sư phạm Nghệ thuật Trung ương Hà Nội",
+    "short_name": "GNT",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://spnttw.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "su_pham",
+      "nghe_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "GNT",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Su-pham-Nghe-thuat-Trung-uong-Ha-Noi_C50_D616.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc su pham nghe thuat trung uong ha noi",
+      "dai hoc su pham nghe thuat trung uong ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sư phạm Thể dục thể thao Hà nội",
+    "short_name": "TDH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hupes.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "su_pham",
+      "the_duc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "TDH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-DH-Su-pham-The-duc-The-thao-Ha-Noi_C50_D691.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc su pham the duc the thao ha noi",
+      "dai hoc su pham the duc the thao ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Tài chính Ngân hàng Hà Nội",
+    "short_name": "FBU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://fbu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "tu_thuc",
+    "admission_code": "FBU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Tai-chinh-Ngan-hang-Ha-Noi_C50_D6477.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc tai chinh ngan hang ha noi",
+      "dai hoc tai chinh ngan hang ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+    "short_name": "DMT",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hunre.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DMT",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Tai-nguyen-va-Moi-truong-Ha-Noi_C50_D5163.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc tai nguyen va moi truong ha noi",
+      "dai hoc tai nguyen va moi truong ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thăng Long",
+    "short_name": "DTL",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://thanglong.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DTL",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Thang-Long_C50_D604.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc thang long",
+      "dai hoc thang long"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thành Đô",
+    "short_name": "TDD",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://thanhdo.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "TDD",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Thanh-Do_C50_D3596.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc thanh do",
+      "dai hoc thanh do"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thủ đô Hà Nội",
+    "short_name": "HNM",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://hnmu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "HNM",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Thu-do-Ha-Noi_C50_D776.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc thu do ha noi",
+      "dai hoc thu do ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thủy lợi",
+    "short_name": "TLA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://tlu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "TLA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Thuy-loi_C50_D615.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc thuy loi",
+      "dai hoc thuy loi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thương mại",
+    "short_name": "TMU",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://tmu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "TMU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Thuong-mai_C50_D613.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc thuong mai",
+      "dai hoc thuong mai"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Văn hóa Hà Nội",
+    "short_name": "VHH",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://huc.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "VHH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Van-hoa-Ha-Noi_C50_D611.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc van hoa ha noi",
+      "dai hoc van hoa ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Xây dựng Hà Nội",
+    "short_name": "XDA",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://huce.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "XDA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Xay-dung_C50_D610.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc xay dung ha noi",
+      "dai hoc xay dung ha noi"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Y tế Công cộng",
+    "short_name": "YTC",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://huph.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "YTC",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Y-te-Cong-cong_C50_D608.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc y te cong cong",
+      "dai hoc y te cong cong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "ĐẠI HỌC THÁI NGUYÊN",
+    "short_name": "TN",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "TN",
+    "institution_type": "Đại học hệ thống",
+    "source_url": "https://thongtintuyensinh.vn/Dai-hoc-Thai-Nguyen_C52_D724.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghệ TT và Truyền thông, Đại học Thái Nguyên",
+    "short_name": "DTC",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://ictu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DTC",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-DH-Cong-nghe-thong-tin-va-Truyen-thong-DH-Thai-Nguyen_C52_D718.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghe tt va truyen thong, dai hoc thai nguyen",
+      "dai hoc cong nghe tt va truyen thong, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kinh tế - Quản trị kinh doanh, Đại học Thái Nguyên",
+    "short_name": "DTE",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tueba.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DTE",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Kinh-te-Quan-tri-kinh-doanh-DH-Thai-Nguyen_C52_D723.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc kinh te - quan tri kinh doanh, dai hoc thai nguyen",
+      "dai hoc kinh te - quan tri kinh doanh, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kỹ thuật Công nghiệp, Đại học Thái Nguyên",
+    "short_name": "DTK",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tnut.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DTK",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Ky-thuat-Cong-nghiep-DH-Thai-Nguyen_C52_D722.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc ky thuat cong nghiep, dai hoc thai nguyen",
+      "dai hoc ky thuat cong nghiep, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Ngoại ngữ, Đại học Thái Nguyên",
+    "short_name": "DTF",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "http://sfl.tnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ngoai_ngu"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DTF",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Khoa-Ngoai-ngu-DH-Thai-Nguyen_C52_D2457.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc ngoai ngu, dai hoc thai nguyen",
+      "dai hoc ngoai ngu, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Nông lâm, Đại học Thái Nguyên",
+    "short_name": "DTN",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tuaf.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nong_lam"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DTN",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Nong-lam-DH-Thai-Nguyen_C52_D721.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc nong lam, dai hoc thai nguyen",
+      "dai hoc nong lam, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sư phạm, Đại học Thái Nguyên",
+    "short_name": "DTS",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tnue.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DTS",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Su-pham-DH-Thai-Nguyen_C52_D720.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc su pham, dai hoc thai nguyen",
+      "dai hoc su pham, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Y Dược, Đại học Thái Nguyên",
+    "short_name": "DTY",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tump.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DTY",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Y-Duoc-DH-Thai-Nguyen_C52_D719.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc y duoc, dai hoc thai nguyen",
+      "dai hoc y duoc, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Khoa Quốc tế, Đại học Thái Nguyên",
+    "short_name": "DTQ",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://is.tnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DTQ",
+    "institution_type": "Trường thành viên / đơn vị trực thuộc",
+    "source_url": "https://thongtintuyensinh.vn/Khoa-Quoc-te-DH-Thai-Nguyen_C52_D8340.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "khoa quoc te, dai hoc thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Phân hiệu Đại học Thái Nguyên tại Hà Giang",
+    "short_name": "DTG",
+    "city": "Tuyên Quang (cơ sở Hà Giang)",
+    "region": "bac",
+    "website": "https://hagiang.tnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DTG",
+    "institution_type": "Phân hiệu",
+    "source_url": "https://thongtintuyensinh.vn/Phan-hieu-Dai-hoc-Thai-Nguyen-tai-tinh-Ha-Giang_C52_D18673.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "phan hieu dai hoc thai nguyen tai ha giang"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Phân hiệu Đại học Thái Nguyên tại Lào Cai",
+    "short_name": "DTP",
+    "city": "Lào Cai",
+    "region": "bac",
+    "website": "https://laocai.tnu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DTP",
+    "institution_type": "Phân hiệu",
+    "source_url": "https://thongtintuyensinh.vn/Phan-hieu-Dai-hoc-Thai-Nguyen-tai-Lao-Cai_C52_D13419.htm#.VrgQp_l97IU",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "phan hieu dai hoc thai nguyen tai lao cai"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghệ Đông Á",
+    "short_name": "DDA",
+    "city": "Bắc Ninh",
+    "region": "bac",
+    "website": "https://eaut.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DDA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghe-Dong-A_C52_D3609.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghe dong a",
+      "dai hoc cong nghe dong a"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghiệp Quảng Ninh",
+    "short_name": "DDM",
+    "city": "Quảng Ninh",
+    "region": "bac",
+    "website": "https://qui.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DDM",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghiep-Quang-Ninh_C52_D715.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghiep quang ninh",
+      "dai hoc cong nghiep quang ninh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Công nghiệp Việt Trì",
+    "short_name": "VUI",
+    "city": "Phú Thọ",
+    "region": "bac",
+    "website": "https://vui.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "VUI",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Cong-nghiep-Viet-Tri_C52_D5158.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc cong nghiep viet tri",
+      "dai hoc cong nghiep viet tri"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Điều dưỡng Nam Định",
+    "short_name": "YDD",
+    "city": "Nam Định",
+    "region": "bac",
+    "website": "https://ndun.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "YDD",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Dieu-duong-Nam-Dinh_C52_D714.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc dieu duong nam dinh",
+      "dai hoc dieu duong nam dinh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hạ Long",
+    "short_name": "HALONG",
+    "city": "Quảng Ninh",
+    "region": "bac",
+    "website": "https://uhl.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "HLU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Ha-Long_C52_D12062.htm#.VR-kxPmUdKA",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc ha long",
+      "dai hoc ha long"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hải Dương",
+    "short_name": "DKT",
+    "city": "Hải Phòng (cơ sở Hải Dương)",
+    "region": "bac",
+    "website": "http://uhd.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DKT",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Hai-Duong_C52_D6554.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc hai duong",
+      "dai hoc hai duong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hải Phòng",
+    "short_name": "THP",
+    "city": "Hải Phòng",
+    "region": "bac",
+    "website": "https://dhhp.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "THP",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Hai-Phong_C52_D713.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc hai phong",
+      "dai hoc hai phong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hàng hải",
+    "short_name": "HHA",
+    "city": "Miền Bắc – đối chiếu địa chỉ cơ sở",
+    "region": "bac",
+    "website": "http://vimaru.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "HHA",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Hang-hai_C52_D712.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc hang hai",
+      "dai hoc hang hai"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hoa Lư",
+    "short_name": "DNB",
+    "city": "Ninh Bình",
+    "region": "bac",
+    "website": "http://hluv.edu.vn/vi/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DNB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Hoa-Lu-Ninh-Binh_C52_D710.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc hoa lu",
+      "dai hoc hoa lu"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Hùng Vương",
+    "short_name": "THV",
+    "city": "Phú Thọ",
+    "region": "bac",
+    "website": "https://hvu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "THV",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Hung-Vuong_C52_D708.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc hung vuong",
+      "dai hoc hung vuong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học INTRACOM",
+    "short_name": "INU",
+    "city": "Hưng Yên",
+    "region": "bac",
+    "website": "https://intracomuni.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "INU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-INTRACOM_C52_D685.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc intracom",
+      "dai hoc intracom"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kinh Bắc",
+    "short_name": "UKB",
+    "city": "Bắc Ninh",
+    "region": "bac",
+    "website": "https://daihockinhbac.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Kinh-Bac_C52_D8370.htm",
+    "ministry_source": "",
+    "verified_at": "2026-10-27",
+    "verification_status": "Cần đối chiếu mã tuyển sinh hiện tại",
+    "aliases": [
+      "truong dai hoc kinh bac",
+      "dai hoc kinh bac"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Kinh tế - Công nghệ Thái Nguyên",
+    "short_name": "DVB",
+    "city": "Thái Nguyên",
+    "region": "bac",
+    "website": "https://tuetech.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "tu_thuc",
+    "admission_code": "DVB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Viet-Bac_C52_D8371.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc kinh te - cong nghe thai nguyen",
+      "dai hoc kinh te - cong nghe thai nguyen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh.",
+    "ownership_note": "Trường ngoài công lập; đối chiếu giới thiệu trường và quyết định thành lập.",
+    "ownership_source": "https://tuetech.edu.vn/Article/Download/1354"
+  },
+  {
+    "name": "Trường Đại học Kỹ thuật Y tế Hải Dương",
+    "short_name": "DKY",
+    "city": "Hải Phòng (cơ sở Hải Dương)",
+    "region": "bac",
+    "website": "https://hmtu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat",
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DKY",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Ky-thuat-Y-te-Hai-Duong_C52_D704.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc ky thuat y te hai duong",
+      "dai hoc ky thuat y te hai duong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Lương Thế Vinh",
+    "short_name": "DTV",
+    "city": "Nam Định",
+    "region": "bac",
+    "website": "https://ltvu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DTV",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Dan-lap-Luong-The-Vinh_C52_D683.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc luong the vinh",
+      "dai hoc luong the vinh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Nông Lâm Bắc Giang",
+    "short_name": "DBG",
+    "city": "Bắc Ninh (cơ sở Bắc Giang)",
+    "region": "bac",
+    "website": "http://bafu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "nong_lam"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "DBG",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Nong-Lam-Bac-Giang_C52_D5161.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc nong lam bac giang",
+      "dai hoc nong lam bac giang"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Quản lý và Công nghệ Hải Phòng",
+    "short_name": "HPU",
+    "city": "Hải Phòng",
+    "region": "bac",
+    "website": "https://hpu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "HPU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Dan-lap-Hai-Phong_C52_D684.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc quan ly va cong nghe hai phong",
+      "dai hoc quan ly va cong nghe hai phong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Quốc tế Bắc Hà",
+    "short_name": "DBH",
+    "city": "Bắc Ninh",
+    "region": "bac",
+    "website": "https://iubh.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DBH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Quoc-te-Bac-Ha_C52_D567.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc quoc te bac ha",
+      "dai hoc quoc te bac ha"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sao Đỏ",
+    "short_name": "SDU",
+    "city": "Hải Phòng (cơ sở Hải Dương)",
+    "region": "bac",
+    "website": "https://saodo.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "SDU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Sao-Do_C52_D5162.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc sao do",
+      "dai hoc sao do"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sư phạm Hà Nội 2",
+    "short_name": "SP2",
+    "city": "Phú Thọ (cơ sở Vĩnh Phúc)",
+    "region": "bac",
+    "website": "https://hpu2.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "SP2",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Su-pham-Ha-Noi-2_C52_D702.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc su pham ha noi 2",
+      "dai hoc su pham ha noi 2"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+    "short_name": "SKH",
+    "city": "Hưng Yên",
+    "region": "bac",
+    "website": "https://utehy.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat",
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "SKH",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Su-pham-Ky-thuat-Hung-Yen_C52_D701.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc su pham ky thuat hung yen",
+      "dai hoc su pham ky thuat hung yen"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Sư phạm Kỹ thuật Nam Định",
+    "short_name": "SKN",
+    "city": "Nam Định",
+    "region": "bac",
+    "website": "https://nute.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "ky_thuat",
+      "su_pham"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "SKN",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Su-pham-Ky-thuat-Nam-Dinh_C52_D700.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc su pham ky thuat nam dinh",
+      "dai hoc su pham ky thuat nam dinh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Tân Trào",
+    "short_name": "TQU",
+    "city": "Tuyên Quang",
+    "region": "bac",
+    "website": "https://daihoctantrao.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "TQU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Tan-Trao_C52_D9936.htm#.UzDjhj83sqU",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc tan trao",
+      "dai hoc tan trao"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Tây Bắc",
+    "short_name": "TTB",
+    "city": "Sơn La",
+    "region": "bac",
+    "website": "https://utb.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "TTB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Tay-Bac_C52_D690.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc tay bac",
+      "dai hoc tay bac"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thái Bình",
+    "short_name": "DTB",
+    "city": "Hưng Yên (cơ sở Thái Bình)",
+    "region": "bac",
+    "website": "https://tbu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "admission_code": "DTB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Thai-Binh_C52_D6544.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc thai binh",
+      "dai hoc thai binh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thành Đông",
+    "short_name": "DDB",
+    "city": "Hải Phòng (cơ sở Hải Dương)",
+    "region": "bac",
+    "website": "https://thanhdong.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DDB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Thanh-Dong_C52_D5166.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc thanh dong",
+      "dai hoc thanh dong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Thể dục Thể thao Bắc Ninh",
+    "short_name": "TDB",
+    "city": "Bắc Ninh",
+    "region": "bac",
+    "website": "https://upes1.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "the_duc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "TDB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-The-duc-The-thao-Bac-Ninh_C52_D689.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc the duc the thao bac ninh",
+      "dai hoc the duc the thao bac ninh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Trưng Vương",
+    "short_name": "DVP",
+    "city": "Phú Thọ (cơ sở Vĩnh Phúc)",
+    "region": "bac",
+    "website": "https://tv-uni.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "admission_code": "DVP",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Trung-Vuong_C52_D5172.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc trung vuong",
+      "dai hoc trung vuong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh.",
+    "ownership_source": "https://tv-uni.edu.vn/mo-dau/"
+  },
+  {
+    "name": "Trường Đại học Y Dược Hải Phòng",
+    "short_name": "YPB",
+    "city": "Hải Phòng",
+    "region": "bac",
+    "website": "https://hpmu.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "YPB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Y-Duoc-Hai-Phong_C52_D687.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc y duoc hai phong",
+      "dai hoc y duoc hai phong"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Y Dược Thái Bình",
+    "short_name": "YTB",
+    "city": "Hưng Yên (cơ sở Thái Bình)",
+    "region": "bac",
+    "website": "https://tbump.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "cong_lap",
+    "admission_code": "YTB",
+    "institution_type": "Trường đại học",
+    "source_url": "https://thongtintuyensinh.vn/Truong-Dai-hoc-Y-Duoc-Thai-Binh_C52_D686.htm",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc y duoc thai binh",
+      "dai hoc y duoc thai binh"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh."
+  },
+  {
+    "name": "Trường Đại học Y khoa Tokyo Việt Nam",
+    "short_name": "THU",
+    "city": "Hưng Yên",
+    "region": "bac",
+    "website": "https://tokyo-human.edu.vn/",
+    "description": "Danh mục cơ sở giáo dục; cần đối chiếu ngành, cơ sở học và tuyển sinh theo năm tại nguồn chính thức.",
+    "fields": [
+      "y_duoc"
+    ],
+    "ownership": "tu_thuc",
+    "admission_code": "THU",
+    "institution_type": "Trường đại học",
+    "source_url": "https://tokyo-human.edu.vn/tuyen-sinh/thong-tin-tuyen-sinh/",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc y khoa tokyo viet nam",
+      "dai hoc y khoa tokyo viet nam"
+    ],
+    "field_note": "Phân loại sơ bộ theo tên cơ sở; chưa phải danh mục ngành tuyển sinh.",
+    "ownership_note": "Cơ sở ngoài công lập có vốn đầu tư nước ngoài; không phải trường công lập.",
+    "ownership_source": "https://tokyo-human.edu.vn/tuyen-sinh/thong-tin-tuyen-sinh/"
+  },
+  {
+    "name": "Trường Đại học Anh Quốc Việt Nam",
+    "short_name": "BUV",
+    "city": "Hưng Yên",
+    "region": "bac",
+    "website": "https://buv.edu.vn/vi/ve-chung-toi/ve-buv",
+    "description": "Đối chiếu đúng cơ sở, chương trình và năm tuyển sinh; không suy diễn chương trình ở cơ sở khác.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "institution_type": "Trường đại học",
+    "admission_code": "BUV",
+    "source_url": "https://buv.edu.vn/vi/ve-chung-toi/ve-buv",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc anh quoc viet nam",
+      "dai hoc anh quoc viet nam"
+    ]
+  },
+  {
+    "name": "Trường Đại học VinUni",
+    "short_name": "VIN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://vinuni.edu.vn/",
+    "description": "Đối chiếu đúng cơ sở, chương trình và năm tuyển sinh; không suy diễn chương trình ở cơ sở khác.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "institution_type": "Trường đại học",
+    "admission_code": "VIN",
+    "source_url": "https://vinuni.edu.vn/",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "truong dai hoc vinuni",
+      "dai hoc vinuni"
+    ]
+  },
+  {
+    "name": "Đại học RMIT Việt Nam – Cơ sở Hà Nội",
+    "short_name": "RMIT-HN",
+    "city": "Hà Nội",
+    "region": "bac",
+    "website": "https://www.rmit.edu.vn/about-us/locations-and-campuses/our-facilities/hanoi-campus",
+    "description": "Đối chiếu đúng cơ sở, chương trình và năm tuyển sinh; không suy diễn chương trình ở cơ sở khác.",
+    "fields": [],
+    "ownership": "tu_thuc",
+    "institution_type": "Cơ sở / phân hiệu",
+    "admission_code": "RMIT",
+    "source_url": "https://www.rmit.edu.vn/about-us/locations-and-campuses/our-facilities/hanoi-campus",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "dai hoc rmit viet nam – co so ha noi"
+    ]
+  },
+  {
+    "name": "Phân hiệu Học viện Tài chính tại Hưng Yên",
+    "short_name": "HTY",
+    "city": "Hưng Yên",
+    "region": "bac",
+    "website": "https://phhy.hvtc.edu.vn/",
+    "description": "Đối chiếu đúng cơ sở, chương trình và năm tuyển sinh; không suy diễn chương trình ở cơ sở khác.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Cơ sở / phân hiệu",
+    "admission_code": "HTY",
+    "source_url": "https://phhy.hvtc.edu.vn/",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "phan hieu hoc vien tai chinh tai hung yen"
+    ]
+  },
+  {
+    "name": "Học viện Ngân hàng – Phân viện Bắc Ninh",
+    "short_name": "NHB",
+    "city": "Bắc Ninh",
+    "region": "bac",
+    "website": "https://hvnh.edu.vn/",
+    "description": "Đối chiếu đúng cơ sở, chương trình và năm tuyển sinh; không suy diễn chương trình ở cơ sở khác.",
+    "fields": [
+      "kinh_te"
+    ],
+    "ownership": "cong_lap",
+    "institution_type": "Cơ sở / phân hiệu",
+    "admission_code": "NHB",
+    "source_url": "https://hvnh.edu.vn/",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "hoc vien ngan hang – phan vien bac ninh"
+    ]
+  },
+  {
+    "name": "Phân hiệu Đại học Thái Nguyên tại Điện Biên",
+    "short_name": "DTO",
+    "city": "Điện Biên",
+    "region": "bac",
+    "website": "https://dienbien.tnu.edu.vn/",
+    "description": "Đối chiếu đúng cơ sở, chương trình và năm tuyển sinh; không suy diễn chương trình ở cơ sở khác.",
+    "fields": [],
+    "ownership": "cong_lap",
+    "institution_type": "Cơ sở / phân hiệu",
+    "admission_code": "DTO",
+    "source_url": "https://dienbien.tnu.edu.vn/",
+    "ministry_source": "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "verified_at": "2026-10-27",
+    "verification_status": "Đã đối chiếu tên/mã trong danh mục Bộ GDĐT",
+    "aliases": [
+      "phan hieu dai hoc thai nguyen tai dien bien"
+    ]
+  }
+]

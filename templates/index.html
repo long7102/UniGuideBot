@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>UniGuideBot · Chọn trường, mở tương lai</title>
+  <script src="/static/theme.js"></script><link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <aside>
+    <a class="brand" href="/" aria-label="UniGuideBot trang chủ"><span class="logo">U</span><span>UniGuide<span class="brand-light">Bot</span><small>HIỂU MÌNH · HIỂU NGHỀ · CHỌN TRƯỜNG</small></span></a>
+    <div class="sidebar-caption">HÀNH TRÌNH CỦA BẠN</div>
+    <nav class="view-tabs" role="tablist" aria-label="Không gian tư vấn">
+      <button id="tab-chat" role="tab" aria-selected="true" aria-controls="chat-panel" data-view="chat" class="view-tab active">✦ Tư vấn AI</button>
+      <button id="tab-profile" role="tab" aria-selected="false" aria-controls="profile-panel" data-view="profile" class="view-tab" tabindex="-1">◎ Hồ sơ của tôi</button>
+      <button id="tab-trends" role="tab" aria-selected="false" aria-controls="trends-panel" data-view="trends" class="view-tab" tabindex="-1">↗ Xu hướng nghề</button>
+      <button id="tab-schools" role="tab" aria-selected="false" aria-controls="schools-panel" data-view="schools" class="view-tab" tabindex="-1">⌘ Danh mục trường</button>
+    </nav>
+    <button id="new-chat" class="new-chat" type="button">＋ Cuộc trò chuyện mới</button>
+    <div class="filters"><h3>Thu hẹp lựa chọn</h3>
+      <label for="region">Khu vực học tập</label><select id="region"><option value="">Tất cả khu vực</option><option value="bac" selected>Miền Bắc</option><option value="trung">Miền Trung</option><option value="nam">Miền Nam</option></select>
+      <label for="field">Nhóm ngành quan tâm</label><select id="field"><option value="">Tất cả nhóm ngành</option><option value="cntt">Công nghệ thông tin</option><option value="kinh_te">Kinh tế – kinh doanh</option><option value="ky_thuat">Kỹ thuật – công nghệ</option><option value="su_pham">Sư phạm</option><option value="y_duoc">Y – dược</option><option value="luat">Luật</option><option value="ngoai_ngu">Ngoại ngữ</option><option value="nghe_thuat">Nghệ thuật – thiết kế</option><option value="nong_lam">Nông – lâm nghiệp</option><option value="xa_hoi">Xã hội – nhân văn</option><option value="the_duc">Thể dục – thể thao</option><option value="khoa_hoc">Khoa học tự nhiên</option></select>
+      <p>Bộ lọc áp dụng cho tư vấn và danh mục trường.</p>
+    </div>
+    <div class="profile-summary"><span class="small-orb">◎</span><div><strong id="profile-badge">Chưa có hồ sơ</strong><p>Thêm sở thích để nhận gợi ý có lý do.</p></div></div>
+    <div class="sidebar-bottom">Một lựa chọn, nhiều cơ hội.<br><span>Bắt đầu từ điều bạn yêu thích.</span></div>
+  </aside>
+  <main>
+    <header><div><span class="status-dot"></span><span id="view-title">Trợ lý định hướng đại học</span></div><div class="header-actions"><button id="open-history" class="theme-toggle" type="button">◷ Lịch sử</button><button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false" aria-label="Chuyển sang chế độ tối">☾ Chế độ tối</button></div></header>
+    <section id="chat-panel" class="view chat-view" role="tabpanel" aria-labelledby="tab-chat">
+      <div id="conversation" aria-live="polite"></div>
+      <div class="composer-wrap"><div class="composer-options"><label><input type="checkbox" id="use-profile" checked> Dùng hồ sơ đã lưu</label><span>Tra cứu web tự động khi cần thông tin mới</span></div><div id="status" role="status"></div>
+        <form id="chat-form"><label class="sr-only" for="message">Câu hỏi tư vấn</label><textarea id="message" rows="1" maxlength="2000" placeholder="Hỏi về trường, ngành học hoặc xu hướng nghề nghiệp 2026…" required></textarea><button id="send" type="submit" aria-label="Gửi câu hỏi">↑</button></form>
+        <p class="disclaimer">Gợi ý để tham khảo. Đối chiếu đúng nguồn, năm dữ liệu và chương trình tuyển sinh.</p>
+      </div>
+    </section>
+    <section id="profile-panel" class="view scroll-view" role="tabpanel" aria-labelledby="tab-profile" hidden>
+      <div class="page-heading"><span class="eyebrow">BẮT ĐẦU TỪ BẠN</span><h1>Hiểu mình trước khi chọn đường.</h1><p>Chia sẻ điều bạn quan tâm. Mình sẽ kết nối sở thích với kỹ năng, hướng nghề và những trường để tìm hiểu.</p></div>
+      <details class="privacy-note"><summary>Hồ sơ riêng tư trên trình duyệt của bạn</summary><p>Khi yêu cầu tư vấn, các mục đã nhập được gửi đến Gemini. Máy chủ không lưu hồ sơ. Không cần nhập thông tin định danh.</p></details>
+      <form id="profile-form" class="profile-form">
+        <div class="form-grid">
+          <label>Sở thích và hoạt động yêu thích<textarea name="interests" maxlength="1200" rows="3" placeholder="Ví dụ: lập trình, tìm hiểu dữ liệu, làm sản phẩm…"></textarea></label>
+          <label>Thế mạnh của bạn<textarea name="strengths" maxlength="1200" rows="3" placeholder="Ví dụ: tư duy logic, giao tiếp, làm việc nhóm…"></textarea></label>
+          <label>Môn học và kỹ năng nổi bật<input name="subjects" maxlength="500" placeholder="Ví dụ: Toán, Vật lý, tiếng Anh"></label>
+          <label>Điểm dự kiến / tổ hợp / phương thức<input name="score" maxlength="150" placeholder="Ví dụ: 25 điểm A01, thi THPT 2027"></label>
+          <label>Ngân sách dự kiến<input name="budget" maxlength="150" placeholder="Ví dụ: học phí 25 triệu/năm, chưa gồm sinh hoạt"></label>
+          <label>Khu vực muốn học<select name="region" id="profile-region"><option value="">Chưa giới hạn</option><option value="bac">Miền Bắc</option><option value="trung">Miền Trung</option><option value="nam">Miền Nam</option></select></label>
+          <label>Nhóm ngành ưu tiên<select name="field" id="profile-field"><option value="">Giúp tôi khám phá</option><option value="cntt">Công nghệ thông tin</option><option value="kinh_te">Kinh tế – kinh doanh</option><option value="ky_thuat">Kỹ thuật – công nghệ</option><option value="su_pham">Sư phạm</option><option value="y_duoc">Y – dược</option><option value="luat">Luật</option><option value="ngoai_ngu">Ngoại ngữ</option><option value="nghe_thuat">Nghệ thuật – thiết kế</option><option value="nong_lam">Nông – lâm nghiệp</option><option value="xa_hoi">Xã hội – nhân văn</option><option value="the_duc">Thể dục – thể thao</option><option value="khoa_hoc">Khoa học tự nhiên</option></select></label>
+          <label>Mục tiêu nghề nghiệp<textarea name="goals" maxlength="1200" rows="3" placeholder="Bạn muốn làm công việc gì? Điều gì quan trọng với bạn trong 5 năm tới?"></textarea></label>
+        </div>
+        <label class="checkbox-line"><input type="checkbox" id="profile-web" checked> Đối chiếu xu hướng nghề mới bằng Google Search</label>
+        <div class="form-actions"><button class="primary" id="recommend-button" type="submit">✦ Lưu và nhận gợi ý</button><button class="secondary" id="save-profile" type="button">Chỉ lưu hồ sơ</button><button class="text-button" id="clear-profile" type="button">Xóa hồ sơ đã lưu</button></div>
+        <div id="profile-status" role="status"></div>
+      </form>
+      <div class="export-bar"><div><strong>Mang kế hoạch của bạn theo cùng.</strong><p>Xuất hồ sơ và phần tư vấn AI thành một bản PDF.</p></div><button id="export-profile" class="secondary" type="button">↓ Xuất PDF</button><span id="export-status" role="status"></span></div>
+      <div id="profile-results" aria-live="polite"></div>
+    </section>
+    <section id="trends-panel" class="view scroll-view" role="tabpanel" aria-labelledby="tab-trends" hidden>
+      <div class="page-heading"><span class="eyebrow">THẾ GIỚI NGHỀ NGHIỆP ĐANG CHUYỂN ĐỘNG</span><h1>Nắm xu hướng. Chọn có cơ sở.</h1><p>Những thay đổi đáng chú ý để bạn hiểu nghề và chọn hướng đi. Cập nhật mỗi 2 giờ.</p></div>
+      <div class="trend-toolbar"><div id="trend-state" role="status">Đang đọc bản cập nhật…</div><button class="secondary" id="refresh-trends" type="button">↻ Cập nhật ngay</button></div>
+      <div id="trend-analysis"></div><div class="section-heading"><h2>Tin mới từ các nguồn công khai</h2><span>Ngày đăng và giờ thu thập hiển thị riêng</span></div><div id="trend-news" class="news-grid"></div>
+    </section>
+    <section id="schools-panel" class="view scroll-view" role="tabpanel" aria-labelledby="tab-schools" hidden>
+      <div class="page-heading"><span class="eyebrow">DANH MỤC CÓ NGUỒN CHÍNH THỨC</span><h1>Khám phá nơi bạn muốn học.</h1><p>Tìm một nơi phù hợp để bắt đầu. Lọc theo khu vực, lĩnh vực hoặc loại hình; mở từng trường để xem học phí và điểm chuẩn có nguồn.</p></div>
+      <div class="catalogue-tools"><label class="sr-only" for="school-search">Tìm tên trường hoặc địa điểm</label><input id="school-search" placeholder="Tìm trường, mã ứng dụng hoặc địa điểm…"><label class="sr-only" for="school-ownership">Loại hình trường</label><select id="school-ownership"><option value="">Tất cả loại hình</option><option value="cong_lap">Công lập</option><option value="tu_thuc">Tư thục / ngoài công lập</option></select></div><div id="school-count" class="count-note" role="status"></div><div id="school-list" class="school-grid"></div>
+    </section>
+  </main>
+  <dialog id="history-dialog" class="history-dialog" aria-labelledby="history-title"><div class="dialog-head"><div><span class="eyebrow">LƯU TRÊN TRÌNH DUYỆT NÀY</span><h2 id="history-title">Lịch sử trò chuyện</h2></div><button id="close-history" class="icon-button" type="button" aria-label="Đóng lịch sử">×</button></div><div id="chat-history-list"></div><p id="history-status" role="status"></p></dialog>
+  <dialog id="admissions-dialog" class="admissions-dialog" aria-labelledby="admissions-title"><div class="dialog-head"><div><span class="eyebrow">DỮ LIỆU CÓ NGUỒN</span><h2 id="admissions-title">Học phí & điểm chuẩn</h2></div><button id="close-admissions" class="icon-button" type="button" aria-label="Đóng thông tin tuyển sinh">×</button></div><div id="admissions-body"></div></dialog>
+  <script src="/static/vendor/jspdf.umd.min.js" defer></script>
+  <script src="/static/script.js"></script>
+  <script src="/static/history.js"></script>
+  <script src="/static/admissions.js"></script>
+  <script src="/static/export.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+.env
+.env.*
+.codex-backups
+.vscode
+docs
+__pycache__
+*.db
+test_*.py
+*.docx

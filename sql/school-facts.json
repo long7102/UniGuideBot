@@ -1,0 +1,23 @@
+{
+  "HPN": {
+    "checked_at": "2026-10-27",
+    "source_published_at": "2026-05-21",
+    "source_url": "https://tuyensinh.hvpnvn.edu.vn/thong-bao/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026-ban-hanh-lan-02/",
+    "title": "Thông báo tuyển sinh đại học chính quy 2026 (lần 02) – Học viện Phụ nữ Việt Nam",
+    "locations": [
+      {
+        "type": "Trụ sở chính",
+        "address": "Số 68 đường Nguyễn Chí Thanh, phường Láng, thành phố Hà Nội"
+      },
+      {
+        "type": "Cơ sở Gia Lâm",
+        "address": "Đường Kiêu Kỵ, xã Gia Lâm, thành phố Hà Nội"
+      },
+      {
+        "type": "Phân hiệu tại TP. Hồ Chí Minh",
+        "address": "Số 620 Đỗ Xuân Hợp, phường Phước Long, TP. Hồ Chí Minh"
+      }
+    ],
+    "note": "Thông báo liệt kê 3 địa điểm/cơ sở: trụ sở chính, cơ sở Gia Lâm và phân hiệu TP.HCM. Chỉ có hai mã tuyển sinh HPN (Hà Nội) và SPN (phân hiệu TP.HCM); không nhầm hai mã tuyển sinh với số cơ sở."
+  }
+}

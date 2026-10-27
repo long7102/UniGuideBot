@@ -1,0 +1,20 @@
+{
+  "retrieved_at": "2026-10-27",
+  "scope": "Bắc Bộ, đại học/học viện/trường thành viên; công lập và ngoài công lập. Cơ sở/phân hiệu ghi riêng; không gồm cao đẳng, trường quân đội/công an chuyên biệt.",
+  "sources": [
+    "https://tuyensinh.moet.gov.vn/ts/thong-tin",
+    "https://www.thongtintuyensinh.vn/Cac-truong-Dai-hoc-Hoc-vien-khu-vuc-TP-Ha-Noi_C50_D1701.htm",
+    "https://thongtintuyensinh.vn/Cac-truong-Dai-hoc-khu-vuc-mien-Bac_C52_D1703.htm"
+  ],
+  "north_records": 127,
+  "private_north": 26,
+  "coverage": "Mở rộng theo các danh mục được đối chiếu; chưa xác nhận đầy đủ 100% các đơn vị mới, đổi tên, sáp nhập hoặc chỉ đào tạo sau đại học.",
+  "changes": [
+    "Nội vụ không nhập thành trường riêng; đối chiếu Học viện Hành chính và Quản trị công.",
+    "Tài chính - Quản trị kinh doanh được thể hiện bằng Phân hiệu Học viện Tài chính tại Hưng Yên.",
+    "Thanh Hóa không đưa vào Bắc Bộ.",
+    "Mã HLU của Hạ Long được giữ ở admission_code; HLU cũ trong ứng dụng vẫn định danh Luật Hà Nội.",
+    "Sửa phân loại ngoài công lập cho Kinh tế - Công nghệ Thái Nguyên, Trưng Vương và Y khoa Tokyo; chỉ mục khu vực thiếu dấu ngoài công lập ở một số dòng."
+  ],
+  "classification": "Loại hình từ dấu ngoài công lập trong chỉ mục khu vực; mã và website đối chiếu nguồn Bộ. Lĩnh vực có thể chưa đầy đủ; nguồn trường cần được kiểm tra khi tư vấn tuyển sinh."
+}
